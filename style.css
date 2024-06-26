@@ -1,0 +1,26 @@
+.container{
+    border: 0px solid black;
+}
+.row{
+    border: 3px solid red;
+
+}
+.col{
+    border: 3px solid green;
+}
+#header{
+background: orange;
+}
+#menu{
+    background: pink;
+}
+#content{
+    background:palegreen;
+
+}
+#sidebar{
+    background: lightblue;
+}
+#footer{
+    background: orange;
+}
